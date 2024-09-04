@@ -1696,6 +1696,9 @@ a {
     left: 3%;
     width: 94%;
   }
+  .banner__wrapper{
+    height: 568px;
+  }
   .banner__title {
     font-size: 30px;
     font-weight: 500;
