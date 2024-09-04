@@ -1434,6 +1434,9 @@ a {
 .works-slider .works-slider__scroll.swiper-scrollbar.swiper-scrollbar-works.swiper-scrollbar-horizontal {
   background-color: #999E98;
 }
+.works-slider__scroll{
+  margin-top: 45px;
+}
 .works-slider .swiper-scrollbar-drag {
   background-color: #117139;
 }
